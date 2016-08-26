@@ -1,3 +1,4 @@
 # hello-world
-My first app with github
+My first application with github
 adding new changes
++new
